@@ -5,7 +5,7 @@ import { extractorAttributify, transformerClass } from 'unocss-preset-weapp/tran
 const { presetWeappAttributify, transformerAttributify } = extractorAttributify()
 
 const DEBUG = process.env.NODE_ENV === 'development'
-const STATIC = `https://s${DEBUG ? '-test' : ''}.kcimg.cn/minapp/new-driver-recruitment`
+const STATIC = ''
 
 export default defineConfig({
   presets: [
