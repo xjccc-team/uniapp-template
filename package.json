@@ -58,7 +58,7 @@
     "vue": "^3.5.13"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^3.12.2",
+    "@antfu/eslint-config": "^3.13.0",
     "@commitlint/cli": "^19.6.1",
     "@commitlint/config-conventional": "^19.6.0",
     "@dcloudio/types": "^3.4.14",
