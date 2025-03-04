@@ -58,7 +58,7 @@
     "vue": "^3.5.13"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^4.3.0",
+    "@antfu/eslint-config": "^4.4.0",
     "@commitlint/cli": "^19.7.1",
     "@commitlint/config-conventional": "^19.7.1",
     "@dcloudio/types": "^3.4.14",
@@ -66,11 +66,11 @@
     "@dcloudio/uni-cli-shared": "3.0.0-alpha-4050320250224001",
     "@dcloudio/uni-stacktracey": "3.0.0-alpha-4050320250224001",
     "@dcloudio/vite-plugin-uni": "3.0.0-alpha-4050320250224001",
-    "@types/node": "^22.13.8",
+    "@types/node": "^22.13.9",
     "@vue/runtime-core": "^3.5.13",
     "@vue/tsconfig": "^0.7.0",
     "commitizen": "^4.3.1",
-    "cz-git": "^1.11.0",
+    "cz-git": "^1.11.1",
     "eslint": "^9.21.0",
     "eslint-config-prettier": "^10.0.2",
     "eslint-plugin-prettier": "^5.2.3",
