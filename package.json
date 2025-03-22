@@ -80,7 +80,7 @@
     "prettier": "^3.5.3",
     "typescript": "^5.8.2",
     "unocss": "^66.0.0",
-    "unocss-preset-weapp": "^65.4.1",
+    "unocss-preset-weapp": "^66.0.0",
     "unplugin-auto-import": "^19.1.1",
     "unplugin-vue-components": "^28.4.1",
     "vite": "6.2.2",
