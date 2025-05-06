@@ -83,7 +83,7 @@
     "unocss-preset-weapp": "^66.0.0",
     "unplugin-auto-import": "^19.1.2",
     "unplugin-vue-components": "^28.5.0",
-    "vite": "6.3.3",
+    "vite": "6.3.4",
     "vue-tsc": "^2.2.10"
   },
   "husky": {
