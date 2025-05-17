@@ -58,7 +58,7 @@
     "vue": "^3.5.14"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^4.13.0",
+    "@antfu/eslint-config": "^4.13.1",
     "@commitlint/cli": "^19.8.1",
     "@commitlint/config-conventional": "^19.8.1",
     "@dcloudio/types": "^3.4.15",
@@ -71,7 +71,7 @@
     "@vue/tsconfig": "^0.7.0",
     "commitizen": "^4.3.1",
     "cz-git": "^1.11.1",
-    "eslint": "^9.26.0",
+    "eslint": "^9.27.0",
     "eslint-config-prettier": "^10.1.5",
     "eslint-plugin-prettier": "^5.4.0",
     "eslint-plugin-vue": "^10.1.0",
