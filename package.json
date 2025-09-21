@@ -82,7 +82,7 @@
     "unocss": "^66.5.1",
     "unocss-preset-weapp": "^66.0.2",
     "unplugin-auto-import": "^19.3.0",
-    "unplugin-vue-components": "^28.8.0",
+    "unplugin-vue-components": "^29.1.0",
     "vite": "7.1.6",
     "vue-tsc": "^3.0.7"
   },
