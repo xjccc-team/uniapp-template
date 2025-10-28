@@ -66,7 +66,7 @@
     "@dcloudio/uni-cli-shared": "3.0.0-alpha-4080220250929001",
     "@dcloudio/uni-stacktracey": "3.0.0-alpha-4080220250929001",
     "@dcloudio/vite-plugin-uni": "3.0.0-alpha-4080220250929001",
-    "@types/node": "^22.18.8",
+    "@types/node": "^24.9.2",
     "@vue/runtime-core": "^3.5.22",
     "@vue/tsconfig": "^0.8.1",
     "commitizen": "^4.3.1",
